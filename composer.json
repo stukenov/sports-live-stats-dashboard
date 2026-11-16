@@ -15,7 +15,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "laminas/laminas-escaper": "^2.9",
-        "psr/log": "^1.1"
+        "psr/log": "^3.0"
     },
     "require-dev": {
         "codeigniter/coding-standard": "^1.7",
@@ -24,7 +24,7 @@
         "kint-php/kint": "^6.1.0",
         "mikey179/vfsstream": "^1.6",
         "nexusphp/cs-config": "^3.6",
-        "phpunit/phpunit": "^9.1",
+        "phpunit/phpunit": "^13.4",
         "predis/predis": "^3.4.2"
     },
     "suggest": {
